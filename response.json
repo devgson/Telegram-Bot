@@ -1,0 +1,125 @@
+{
+    "id": "love",
+    "metadata": {
+        "operation": "retrieve",
+        "provider": "Oxford University Press",
+        "schema": "RetrieveEntry"
+    },
+    "results": [
+        {
+            "id": "love",
+            "language": "en-gb",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an intense feeling of deep affection"
+                                    ],
+                                    "id": "m_en_gbus0596690.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a strong feeling of affection and sexual attraction for someone"
+                                            ],
+                                            "id": "m_en_gbus0596690.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "affectionate greetings conveyed to someone on one's behalf"
+                                            ],
+                                            "id": "m_en_gbus0596690.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a formula for ending an affectionate letter"
+                                            ],
+                                            "id": "m_en_gbus0596690.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a personified figure of love, often represented as Cupid."
+                                            ],
+                                            "id": "m_en_gbus0596690.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a great interest and pleasure in something"
+                                    ],
+                                    "id": "m_en_gbus0596690.016"
+                                },
+                                {
+                                    "definitions": [
+                                        "a person or thing that one loves"
+                                    ],
+                                    "id": "m_en_gbus0596690.018",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a friendly form of address"
+                                            ],
+                                            "id": "m_en_gbus0596690.021"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "used in affectionate requests"
+                                            ],
+                                            "id": "m_en_gbus0596690.022"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in tennis, squash, and some other sports) a score of zero; nil"
+                                    ],
+                                    "id": "m_en_gbus0596690.024"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-gb",
+                    "lexicalCategory": {
+                        "id": "noun",
+                        "text": "Noun"
+                    },
+                    "text": "love"
+                },
+                {
+                    "entries": [
+                        {
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feel deep affection or sexual love for (someone)"
+                                    ],
+                                    "id": "m_en_gbus0596690.026",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "like or enjoy very much"
+                                            ],
+                                            "id": "m_en_gbus0596690.032"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en-gb",
+                    "lexicalCategory": {
+                        "id": "verb",
+                        "text": "Verb"
+                    },
+                    "text": "love"
+                }
+            ],
+            "type": "headword",
+            "word": "love"
+        }
+    ],
+    "word": "love"
+}
